@@ -42,3 +42,5 @@ Chapter in Advances in Speech and Language Technologies for Iberian Languages, p
 *The TORGO database of acoustic and articulatory speech from speakers with dysarthria*. 
 Language Resources and Evaluation, December 2012, Volume 46, Issue 4, pp 523-541 
 
+
+SOME EXTRA TEXT
